@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/company</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f7b2</objectGroupId>
+	<objectId>f7b27d27-a191-a46c-15f1-14b17918e205</objectId>
+	<internal-name>Company 4</internal-name>
+	<name_s>Company 4</name_s>
+	<website_s>hj</website_s>
+	<email_s>j</email_s>
+	<phone_s>hj</phone_s>
+	<file-name>f7b27d27-a191-a46c-15f1-14b17918e205.xml</file-name>
+	<disabled>false</disabled>
+	<logo_s/>
+	<description_html>&lt;p&gt;zu&lt;/p&gt;</description_html>
+	<createdDate>2021-08-25T09:48:05.320Z</createdDate>
+	<createdDate_dt>2021-08-25T09:48:05.320Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:48:05.320Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:48:05.320Z</lastModifiedDate_dt>
+</component>
