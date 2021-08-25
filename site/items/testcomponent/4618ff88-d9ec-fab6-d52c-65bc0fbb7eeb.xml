@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/testcomponent</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4618</objectGroupId>
+	<objectId>4618ff88-d9ec-fab6-d52c-65bc0fbb7eeb</objectId>
+	<file-name>4618ff88-d9ec-fab6-d52c-65bc0fbb7eeb.xml</file-name>
+	<internal-name>TC6</internal-name>
+	<link_s/>
+	<name_t>TC6</name_t>
+	<thumbnail_s>/static-assets/images/products/bp_empty.png</thumbnail_s>
+	<createdDate>2021-08-24T11:31:33.670Z</createdDate>
+	<createdDate_dt>2021-08-24T11:31:33.670Z</createdDate_dt>
+	<lastModifiedDate>2021-08-24T11:39:38.261Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-24T11:39:38.261Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/testcomponent</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6eb0</objectGroupId>
+	<objectId>6eb04eda-9810-60bc-4cdd-4c3cde927603</objectId>
+	<internal-name>TC7</internal-name>
+	<link_s/>
+	<name_t>TC77</name_t>
+	<thumbnail_s>/static-assets/images/products/Black.png</thumbnail_s>
+	<file-name>6eb04eda-9810-60bc-4cdd-4c3cde927603.xml</file-name>
+	<createdDate>2021-08-25T07:48:30.896Z</createdDate>
+	<createdDate_dt>2021-08-25T07:48:30.896Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T07:48:30.896Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T07:48:30.896Z</lastModifiedDate_dt>
+</component>

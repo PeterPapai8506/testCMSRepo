@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/testcomponent</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4931</objectGroupId>
+	<objectId>49318198-edbb-a0bf-fc05-3ebb8501dd62</objectId>
+	<internal-name>Test Comp2</internal-name>
+	<link_s/>
+	<name_t>tc2</name_t>
+	<file-name>49318198-edbb-a0bf-fc05-3ebb8501dd62.xml</file-name>
+	<thumbnail_s/>
+	<createdDate>2021-08-19T13:41:10.144Z</createdDate>
+	<createdDate_dt>2021-08-19T13:41:10.144Z</createdDate_dt>
+	<lastModifiedDate>2021-08-19T13:41:10.144Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-19T13:41:10.144Z</lastModifiedDate_dt>
+</component>
