@@ -102,18 +102,6 @@
                 <permission>upload_content_cmis</permission>
             </allowed-permissions>
         </rule>
-        <rule regex="/site/components|/site/components/.**">
-            <allowed-permissions>
-                <permission>Read</permission>
-                <permission>Write</permission>
-                <permission>Create Content</permission>
-                <permission>Create Folder</permission>
-                <permission>list_cmis</permission>
-                <permission>search_cmis</permission>
-                <permission>clone_content_cmis</permission>
-                <permission>upload_content_cmis</permission>
-            </allowed-permissions>
-        </rule>
         <rule regex="/static-assets|/static-assets/.*">
             <allowed-permissions>
                 <permission>Read</permission>
