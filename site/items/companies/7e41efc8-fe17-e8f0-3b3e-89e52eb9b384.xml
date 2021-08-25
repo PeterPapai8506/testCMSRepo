@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/company</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7e41</objectGroupId>
+	<objectId>7e41efc8-fe17-e8f0-3b3e-89e52eb9b384</objectId>
+	<internal-name>Company 3</internal-name>
+	<name_s>Company 3</name_s>
+	<website_s>4</website_s>
+	<email_s>4</email_s>
+	<phone_s>4</phone_s>
+	<disabled>false</disabled>
+	<file-name>7e41efc8-fe17-e8f0-3b3e-89e52eb9b384.xml</file-name>
+	<logo_s/>
+	<description_html>&lt;p&gt;4&lt;/p&gt;</description_html>
+	<createdDate>2021-08-25T09:35:26.966Z</createdDate>
+	<createdDate_dt>2021-08-25T09:35:26.966Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:35:26.966Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:35:26.966Z</lastModifiedDate_dt>
+</component>
